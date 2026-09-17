@@ -15,8 +15,11 @@ This project simulates a multi-area enterprise network infrastructure designed t
 ## Network Topology Architecture
 The simulated topology consists of multiple interconnected Cisco routers configured to test real-world scenarios, fallback mechanisms, link-state advertisement (LSA) database synchronization, and robust security policies.
 
-## Repository Structure
-* `Configs/` — Contains the complete running-configurations for all routers deployed in the simulation environment.
+## Network Topology
+![Topology Diagram](topology.png)
+
+## Repository Files
+* Contains the complete router running-configurations (`R1` through `R6`) and the network topology diagram deployed in the simulation environment.
 
 ## Author
 Ahmed Ashraf
