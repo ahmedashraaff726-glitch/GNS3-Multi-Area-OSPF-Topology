@@ -1,5 +1,4 @@
-# Enterprise Campus Network Implementation & OSPF Hardening
-
+# Enterprise Multi-Area OSPF Network Simulation & Hardening
 A comprehensive enterprise network topology built and simulated using GNS3, focusing on advanced OSPF routing protocols, area structuring, security, and high availability.
 
 ## Project Overview
